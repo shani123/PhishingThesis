@@ -35,3 +35,6 @@ Install the following Python libraries:
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
+
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shani123-phishingthesis.streamlit.app/)
